@@ -430,6 +430,7 @@ footer{
     
     header{
         margin-left: 20px;
+        width: 100%;
     }
 
 
@@ -446,6 +447,8 @@ footer{
         font-size: 30px;
         color: var(--main-color);
         cursor: pointer;
+        text-align: right;
+        margin-right: 100px;
     }
 
     .btn-mobile:hover{
@@ -469,8 +472,8 @@ footer{
         text-align: center;
         justify-content: center;
         transition: all .5s;
-        left: -100%;
-        margin-left: -20px
+        left: -110%;
+        margin-left: -10px;
         
     }
 
@@ -478,7 +481,7 @@ footer{
         display: inline-block;
         background-color: var(--white-color);
         padding: 6px 12px;
-        width: 100%
+        width: 100%;
     }
 
     nav ul li{
@@ -525,9 +528,9 @@ footer{
 
     .card{
         background-color: var(--main-color);
-        width: 130px;
-        height: 130px;
-        margin-left: 15px;
+        width: 100px;
+        height: 100px;
+        margin-left: 10px;
         margin-right: 10px;
         display: flex;
         justify-content: center;
