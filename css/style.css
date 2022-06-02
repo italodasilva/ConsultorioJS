@@ -244,6 +244,10 @@ input[type="submit"]{
 
 footer{
     margin-top: 100px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 100px;
 }
 .social h3{
     color: var(--main-color);
@@ -428,6 +432,15 @@ footer{
         margin-left: 20px;
     }
 
+
+    .container-card{
+        width: 100%;
+    }
+
+    .slider{
+        width: 100%;
+    }
+
     .btn-mobile {
         display: block;
         font-size: 30px;
@@ -453,8 +466,8 @@ footer{
         height: 100vh;
         background-color: var(--main-color);
         top: 80px;
-        left: 0;
         text-align: center;
+        justify-content: center;
         transition: all .5s;
         left: -110%;
         
