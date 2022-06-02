@@ -444,7 +444,7 @@ footer{
         color: var(--main-color);
         cursor: pointer;
         text-align: right;
-        margin-right: 100px;
+        margin-right: 70px;
     }
 
     .btn-mobile:hover{
