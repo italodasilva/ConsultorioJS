@@ -469,7 +469,8 @@ footer{
         text-align: center;
         justify-content: center;
         transition: all .5s;
-        left: -110%;
+        left: -100%;
+        margin-left: -20px
         
     }
 
