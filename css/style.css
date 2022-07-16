@@ -625,6 +625,7 @@ footer{
         font-size: 13px;
         margin-left: 20px;
         margin-top: 10px;
+        display: none
     }
 
     .area-title-2 span{
