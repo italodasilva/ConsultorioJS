@@ -702,4 +702,8 @@ footer{
         height: 300px;
         width: 350px;
     }
+    
+    .area-title-2{
+    display: none
+    }
 }
