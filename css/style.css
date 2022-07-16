@@ -636,6 +636,7 @@ footer{
     .image2 img{
         width: 201px;
         margin-right: 5px;
+        display:none
     }
     .btn-area-pc{
         display: none;
