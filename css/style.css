@@ -699,7 +699,7 @@ footer{
     }
 
     .googlemaps iframe{
-        height: 400px;
-        width: 450px;
+        height: 300px;
+        width: 350px;
     }
 }
