@@ -665,7 +665,7 @@ footer{
         position: absolute;
         width: 400px;
         margin-top: -350px;
-        margin-left: 25px;
+        margin-left: 50px;
         display: flex;
         justify-content: center;
     }
@@ -674,7 +674,7 @@ footer{
         position: absolute;
         width: 400px;
         margin-top: 350px;
-        margin-left: -75px;
+        margin-left: -100px;
         display: flex;
         justify-content: center;
     }
@@ -685,7 +685,7 @@ footer{
     }
     
     .slides{
-      margin-left: 25px
+      margin-left: 50px
     
     }
     
@@ -701,7 +701,7 @@ footer{
     }
 
     .googlemaps iframe{
-        height: 200px;
-        width: 250px;
+        height: 300px;
+        width: 350px;
     }
 }
