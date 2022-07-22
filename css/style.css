@@ -661,7 +661,7 @@ footer{
         position: absolute;
         width: 400px;
         margin-top: 350px;
-        margin-left: -45px;
+        margin-left: 15px;
         display: flex;
         justify-content: center;
     }
@@ -672,7 +672,7 @@ footer{
     }
     
     .slides{
-        margin-left: 50px;
+        margin-left: 35px;
     
     }
     
