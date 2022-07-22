@@ -625,7 +625,6 @@ footer{
         font-size: 13px;
         margin-left: 20px;
         margin-top: 10px;
-        display: none
     }
 
     .area-title-2 span{
@@ -660,10 +659,6 @@ footer{
 
     .tittle-slide h2{
         font-size: 18px;
-    }
-
-    .slides{
-        margin-left: 100px;
     }
 
     .manual-navigation{
